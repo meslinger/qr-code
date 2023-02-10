@@ -10,10 +10,14 @@ This is a solution to the [QR Code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
+- Live Site: [Netlify](https://storied-boba-qrcode.netlify.app/)
 
 ## Process
 
 ### Built With
-
+- Semantic HTML
+- CSS Custom Properties
+- Flexbox
+    
 ## Author
 - Github - [Michael Eslinger][https://github.com/meslinger]
