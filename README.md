@@ -20,4 +20,4 @@ This is a solution to the [QR Code component challenge on Frontend Mentor](https
 - Flexbox
     
 ## Author
-- Github - [Michael Eslinger][https://github.com/meslinger]
+- Github - [Michael Eslinger](https://github.com/meslinger)
